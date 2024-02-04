@@ -1,6 +1,6 @@
 ---
 title: FaucetSprayHead
-date: 2024-02-01 20:08:37
+date: 2024-01-01 04:00:00
 cover_image: https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/FaucetSprayHead/FaucetSprayHead.jpg
 buy_link: https://www.amazon.com/Meloyankoo-Attachment-Accessories-Adjustable-Anti-Splash/dp/B0CHWMQYMP
 tags:

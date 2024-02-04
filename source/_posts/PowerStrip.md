@@ -1,6 +1,6 @@
 ---
 title: PowerStrip
-date: 2024-02-01 20:09:07
+date: 2024-01-01 05:00:00
 cover_image: https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/PowerStrip/PowerStrip.jpg
 buy_link: https://www.amazon.com/Meloyankoo-Retractable-Extension-Detachable-Portable/dp/B0CB4NSN7P
 tags:
