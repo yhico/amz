@@ -2,6 +2,7 @@
 title: FaucetSprayHead
 date: 2024-02-01 20:08:37
 cover_image: https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/FaucetSprayHead/FaucetSprayHead.jpg
+buy_link: https://www.amazon.com/Meloyankoo-Attachment-Accessories-Adjustable-Anti-Splash/dp/B0CHWMQYMP
 tags:
 ---
 
@@ -25,6 +26,9 @@ The faucet aerator has female thread that fits for male thread faucet. If your f
 Directly installed by hands without tools,fits 99% Taps.Faucet thread size 22mm/0.866in.
 ![avatar][p7]
 
+| <a class="buy" href="https://www.amazon.com/Meloyankoo-Attachment-Accessories-Adjustable-Anti-Splash/dp/B0CHWMQYMP" target="_blank"><span>Buy &#8594;</span></a>| | |
+|  :----  | :----:  | ----:  |
+
 [p1]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/FaucetSprayHead/p1.jpg
 [p2]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/FaucetSprayHead/p2.jpg
 [p3]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/FaucetSprayHead/p3.jpg
@@ -32,3 +36,4 @@ Directly installed by hands without tools,fits 99% Taps.Faucet thread size 22mm/
 [p5]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/FaucetSprayHead/p5.jpg
 [p6]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/FaucetSprayHead/p6.jpg
 [p7]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/FaucetSprayHead/p7.jpg
+[coupon]:<a class="buy" href="https://www.amazon.com/promotion/psp/A310KKEUM8UJ9H" target="_blank"><span>Coupon Buy &#8594;</span></a> 

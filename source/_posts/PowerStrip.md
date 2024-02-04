@@ -2,6 +2,7 @@
 title: PowerStrip
 date: 2024-02-01 20:09:07
 cover_image: https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/PowerStrip/PowerStrip.jpg
+buy_link: https://www.amazon.com/Meloyankoo-Retractable-Extension-Detachable-Portable/dp/B0CB4NSN7P
 tags:
 ---
 
@@ -25,9 +26,13 @@ Rotary storage wire by direction,esay to store inside,keep tidy and neat.
 When using our product,simply pull out the extension cord,when storage extension cord,simply turn the top of the socket clockwise.
 ![avatar][p6]
 
+| <a class="buy" href="https://www.amazon.com/Meloyankoo-Retractable-Extension-Detachable-Portable/dp/B0CB4NSN7P" target="_blank"><span>Buy &#8594;</span></a>| | |
+|  :----  | :----:  | ----:  |
+
 [p1]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/PowerStrip/p1.jpg
 [p2]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/PowerStrip/p2.jpg
 [p3]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/PowerStrip/p3.jpg
 [p4]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/PowerStrip/p4.jpg
 [p5]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/PowerStrip/p5.jpg
 [p6]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/PowerStrip/p6.jpg
+[coupon]:<a class="buy" href="https://www.amazon.com/promotion/psp/A310KKEUM8UJ9H" target="_blank"><span>Coupon Buy &#8594;</span></a> 

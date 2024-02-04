@@ -170,3 +170,29 @@ h1, h2, h3 {
 	margin: 0 10px;
 	color: #000;
 }
+
+/* add buy button */
+.buy {
+	display: inline-block;
+	padding: 15px 25px;
+	font-size: 24px;
+	cursor: pointer;
+	text-align: center;
+	text-decoration: none !important;;
+	outline: none;
+	color: #fff;
+	background-color: #b1fffa;
+	border: none;
+	border-radius: 15px;
+	box-shadow: 0 9px #999;
+}
+
+.buy:hover {
+	background-color: #82ffff;
+}
+
+.buy:active {
+	background-color: #82ffff;
+	box-shadow: 0 5px #666;
+	transform: translateY(4px);
+}
