@@ -1,7 +1,7 @@
 ---
-title: PowerStrip
+title: RetractablePowerStrip
 date: 2024-01-01 05:00:00
-cover_image: https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/PowerStrip/PowerStrip.jpg
+cover_image: https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/RetractablePowerStrip/RetractablePowerStrip.jpg
 buy_link: https://www.amazon.com/Meloyankoo-Retractable-Extension-Detachable-Portable/dp/B0CB4NSN7P
 tags:
 ---
@@ -29,10 +29,10 @@ When using our product,simply pull out the extension cord,when storage extension
 | <a class="buy" href="https://www.amazon.com/Meloyankoo-Retractable-Extension-Detachable-Portable/dp/B0CB4NSN7P" target="_blank"><span>Buy &#8594;</span></a>| | |
 |  :----  | :----:  | ----:  |
 
-[p1]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/PowerStrip/p1.jpg
-[p2]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/PowerStrip/p2.jpg
-[p3]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/PowerStrip/p3.jpg
-[p4]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/PowerStrip/p4.jpg
-[p5]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/PowerStrip/p5.jpg
-[p6]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/PowerStrip/p6.jpg
+[p1]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/RetractablePowerStrip/p1.jpg
+[p2]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/RetractablePowerStrip/p2.jpg
+[p3]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/RetractablePowerStrip/p3.jpg
+[p4]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/RetractablePowerStrip/p4.jpg
+[p5]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/RetractablePowerStrip/p5.jpg
+[p6]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/RetractablePowerStrip/p6.jpg
 [coupon]:<a class="buy" href="https://www.amazon.com/promotion/psp/A310KKEUM8UJ9H" target="_blank"><span>Coupon Buy &#8594;</span></a> 

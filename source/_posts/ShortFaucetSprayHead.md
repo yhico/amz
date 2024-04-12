@@ -1,7 +1,7 @@
 ---
 title: FaucetSprayHead
 date: 2024-01-01 04:00:00
-cover_image: https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/FaucetSprayHead/FaucetSprayHead.jpg
+cover_image: https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/ShortFaucetSprayHead/ShortFaucetSprayHead.jpg
 buy_link: https://www.amazon.com/Meloyankoo-Attachment-Accessories-Adjustable-Anti-Splash/dp/B0CHWMQYMP
 tags:
 ---
@@ -29,11 +29,11 @@ Directly installed by hands without tools,fits 99% Taps.Faucet thread size 22mm/
 | <a class="buy" href="https://www.amazon.com/Meloyankoo-Attachment-Accessories-Adjustable-Anti-Splash/dp/B0CHWMQYMP" target="_blank"><span>Buy &#8594;</span></a>| | |
 |  :----  | :----:  | ----:  |
 
-[p1]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/FaucetSprayHead/p1.jpg
-[p2]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/FaucetSprayHead/p2.jpg
-[p3]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/FaucetSprayHead/p3.jpg
-[p4]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/FaucetSprayHead/p4.jpg
-[p5]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/FaucetSprayHead/p5.jpg
-[p6]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/FaucetSprayHead/p6.jpg
-[p7]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/FaucetSprayHead/p7.jpg
+[p1]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/ShortFaucetSprayHead/p1.jpg
+[p2]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/ShortFaucetSprayHead/p2.jpg
+[p3]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/ShortFaucetSprayHead/p3.jpg
+[p4]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/ShortFaucetSprayHead/p4.jpg
+[p5]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/ShortFaucetSprayHead/p5.jpg
+[p6]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/ShortFaucetSprayHead/p6.jpg
+[p7]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/ShortFaucetSprayHead/p7.jpg
 [coupon]:<a class="buy" href="https://www.amazon.com/promotion/psp/A310KKEUM8UJ9H" target="_blank"><span>Coupon Buy &#8594;</span></a> 

@@ -2,7 +2,7 @@
 title: Muti-functionFishingPliers(P)
 date: 2024-01-01 02:00:00
 cover_image: https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/Muti-functionFishingPliers(P)/Muti-functionFishingPliers(P).jpg
-buy_link: https://www.amazon.com/Meloyankoo-Muti-function-Fishing-Gripper-Remover/dp/B0CQHFYX5R
+buy_link: https://www.amazon.com/Meloyankoo-Muti-Function-Fishing-Gripper-Remover/dp/B0CQHFYX5R
 tags:
 ---
 
@@ -24,7 +24,7 @@ High-end style, anti-lost design,portable and practical Oxford bag,can be hung o
 
 Fishing tools are perfect for Father's Day gifts, Birthday gifts, and Christmas gifts for men, boyfriends, dads, angler friends, fishermen and husbands or family.
 ![avatar][p10]
-| <a class="buy" href="https://www.amazon.com/Meloyankoo-Muti-function-Fishing-Gripper-Remover/dp/B0CQHFYX5R" target="_blank"><span>Buy &#8594;</span></a>| | |
+| <a class="buy" href="https://www.amazon.com/Meloyankoo-Muti-Function-Fishing-Gripper-Remover/dp/B0CQHFYX5R" target="_blank"><span>Buy &#8594;</span></a>| | |
 |  :----  | :----:  | ----:  |
 
 [p1]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/Muti-functionFishingPliers(P)/p1.jpg

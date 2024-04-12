@@ -2,7 +2,7 @@
 title: Muti-functionFishingPliers
 date: 2024-01-01 03:00:00
 cover_image: https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/Muti-functionFishingPliers/Muti-functionFishingPliers.jpg
-buy_link: https://www.amazon.com/Meloyankoo-Muti-function-Fishing-Pliers-Remover/dp/B0CQJPQ3NG
+buy_link: https://www.amazon.com/Meloyankoo-Muti-Function-Fishing-Pliers-Remover/dp/B0CQJPQ3NG
 tags:
 ---
 
@@ -24,7 +24,7 @@ High-end style, anti-lost design,portable and practical Oxford bag,can be hung o
 
 Fishing tools are perfect for Father's Day gifts, Birthday gifts, and Christmas gifts for men, boyfriends, dads, angler friends, fishermen and husbands or family.
 ![avatar][p9]
-| <a class="buy" href="https://www.amazon.com/Meloyankoo-Muti-function-Fishing-Pliers-Remover/dp/B0CQJPQ3NG" target="_blank"><span>Buy &#8594;</span></a>| | |
+| <a class="buy" href="https://www.amazon.com/Meloyankoo-Muti-Function-Fishing-Pliers-Remover/dp/B0CQJPQ3NG" target="_blank"><span>Buy &#8594;</span></a>| | |
 |  :----  | :----:  | ----:  |
 
 [p1]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/Muti-functionFishingPliers/p1.jpg
