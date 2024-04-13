@@ -41,8 +41,8 @@ Remove the base by turning it counterclockwise.
 [p4]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/TravelPowerStrip/p4.jpg
 [p5]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/TravelPowerStrip/p5.jpg
 [p6]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/TravelPowerStrip/p6.jpg
-[p6]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/TravelPowerStrip/p7.jpg
-[p6]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/TravelPowerStrip/p8.jpg
-[p6]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/TravelPowerStrip/p9.jpg
-[p6]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/TravelPowerStrip/p10.jpg
+[p7]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/TravelPowerStrip/p7.jpg
+[p8]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/TravelPowerStrip/p8.jpg
+[p9]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/TravelPowerStrip/p9.jpg
+[p10]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/TravelPowerStrip/p10.jpg
 [coupon]:<a class="buy" href="https://www.amazon.com/promotion/psp/A310KKEUM8UJ9H" target="_blank"><span>Coupon Buy &#8594;</span></a> 
