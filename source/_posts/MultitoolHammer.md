@@ -1,7 +1,7 @@
 ---
 title: MultitoolHammer
 date: 2024-01-01 01:00:00
-cover_image: https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/MultitoolHammer/MultitoolHammer.jpg
+cover_image: https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/MultitoolHammer/w1.jpg
 buy_link: https://www.amazon.com/Meloyankoo-Multitool-Camping-Essentials-Everything/dp/B0CPLLJW7P
 tags:
 ---

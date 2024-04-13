@@ -1,7 +1,7 @@
 ---
 title: Muti-functionFishingPliers
 date: 2024-01-01 03:00:00
-cover_image: https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/Muti-functionFishingPliers/Muti-functionFishingPliers.jpg
+cover_image: https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/Muti-functionFishingPliers/w1.jpg
 buy_link: https://www.amazon.com/Meloyankoo-Muti-Function-Fishing-Pliers-Remover/dp/B0CQJPQ3NG
 tags:
 ---

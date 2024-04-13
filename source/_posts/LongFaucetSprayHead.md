@@ -1,8 +1,8 @@
 ---
 title: LongFaucetSprayHead
 date: 2024-01-01 06:00:00
-cover_image: https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/LongFaucetSprayHead/LongFaucetSprayHead.jpg
-buy_link: https://www.amazon.com/Meloyankoo-Attachment-Accessories-Adjustable-Anti-Splash/dp/B0CHWMQYMP
+cover_image: https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/LongFaucetSprayHead/w1.jpg
+buy_link: https://www.amazon.com/Meloyankoo-Universal-Accessories-Adjustable-Anti-Splash/dp/B0CZ4D3TLG
 tags:
 ---
 
@@ -28,7 +28,7 @@ Directly installed by hands without tools,fits 99% Taps.Faucet thread size 22mm/
 
 After long use, if the water flow becomes smaller or adjuster locked up，turn the bottom layer slightly counterclockwise and unscrew the nozzle,can clean the filter or can restore the adjuster position.
 
-| <a class="buy" href="https://www.amazon.com/Meloyankoo-Attachment-Accessories-Adjustable-Anti-Splash/dp/B0CHWMQYMP" target="_blank"><span>Buy &#8594;</span></a>| | |
+| <a class="buy" href="https://www.amazon.com/Meloyankoo-Universal-Accessories-Adjustable-Anti-Splash/dp/B0CZ4D3TLG" target="_blank"><span>Buy &#8594;</span></a>| | |
 |  :----  | :----:  | ----:  |
 
 [p1]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/LongFaucetSprayHead/p1.jpg

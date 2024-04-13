@@ -1,7 +1,7 @@
 ---
 title: ShortFaucetSprayHead
 date: 2024-01-01 04:00:00
-cover_image: https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/ShortFaucetSprayHead/ShortFaucetSprayHead.jpg
+cover_image: https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/ShortFaucetSprayHead/w1.jpg
 buy_link: https://www.amazon.com/Meloyankoo-Attachment-Accessories-Adjustable-Anti-Splash/dp/B0CHWMQYMP
 tags:
 ---
@@ -25,6 +25,8 @@ The faucet aerator has female thread that fits for male thread faucet. If your f
 
 Directly installed by hands without tools,fits 99% Taps.Faucet thread size 22mm/0.866in.
 ![avatar][p7]
+
+After long use, if the water flow becomes smaller or adjuster locked up，turn the bottom layer slightly counterclockwise and unscrew the nozzle,can clean the filter or can restore the adjuster position.
 
 | <a class="buy" href="https://www.amazon.com/Meloyankoo-Attachment-Accessories-Adjustable-Anti-Splash/dp/B0CHWMQYMP" target="_blank"><span>Buy &#8594;</span></a>| | |
 |  :----  | :----:  | ----:  |
