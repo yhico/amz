@@ -15,8 +15,8 @@ High quality material,crafted to last!
 The right size,can be fitted to kitchen, sink faucets and bathroom taps.
 The main body of faucet swivel attachment is made of high quality material, the swivel ball joint is made of solid brass, and rotating faucet aerator has smooth surface and chrome-plated, which can withstand water pressure changes and daily rust.
 
-|  ![avatar][p3] | ![avatar][p4] | 
-|  :----  | ----  |
+|  ![avatar][p3] | ![avatar][p4] | |
+|  :----  | ----  | ----:  |
 
 3 Water Flow Modes,with 3 adjustable water spray modes, you can easily switch between three modes by rotating the bottom part of the faucet aerator.
 ![avatar][p5]
