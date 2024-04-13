@@ -32,9 +32,6 @@ Remove the base by turning it counterclockwise.
 |  ![avatar][p8] | ![avatar][p9] | ![avatar][p10] |
 |  :----  | ----  | ----:  |
 
-
-
-
 | <a class="buy" href="https://www.amazon.com/Meloyankoo-Extension-Detachable-Storage-Portable/dp/B0CZ6TP9FW" target="_blank"><span>Buy &#8594;</span></a>| | |
 |  :----  | :----:  | ----:  |
 
