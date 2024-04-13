@@ -38,14 +38,14 @@ Remove the base by turning it counterclockwise.
 | <a class="buy" href="https://www.amazon.com/Meloyankoo-Extension-Detachable-Storage-Portable/dp/B0CZ6TP9FW" target="_blank"><span>Buy &#8594;</span></a>| | |
 |  :----  | :----:  | ----:  |
 
-[p1]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/LongFaucetSprayHead/p1.jpg
-[p2]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/LongFaucetSprayHead/p2.jpg
-[p3]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/LongFaucetSprayHead/p3.jpg
-[p4]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/LongFaucetSprayHead/p4.jpg
-[p5]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/LongFaucetSprayHead/p5.jpg
-[p6]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/LongFaucetSprayHead/p6.jpg
-[p6]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/LongFaucetSprayHead/p7.jpg
-[p6]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/LongFaucetSprayHead/p8.jpg
-[p6]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/LongFaucetSprayHead/p9.jpg
-[p6]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/LongFaucetSprayHead/p10.jpg
+[p1]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/TravelPowerStrip/p1.jpg
+[p2]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/TravelPowerStrip/p2.jpg
+[p3]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/TravelPowerStrip/p3.jpg
+[p4]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/TravelPowerStrip/p4.jpg
+[p5]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/TravelPowerStrip/p5.jpg
+[p6]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/TravelPowerStrip/p6.jpg
+[p6]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/TravelPowerStrip/p7.jpg
+[p6]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/TravelPowerStrip/p8.jpg
+[p6]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/TravelPowerStrip/p9.jpg
+[p6]:https://raw.githubusercontent.com/yhico/amz/main/themes/edinburgh/source/images/TravelPowerStrip/p10.jpg
 [coupon]:<a class="buy" href="https://www.amazon.com/promotion/psp/A310KKEUM8UJ9H" target="_blank"><span>Coupon Buy &#8594;</span></a> 
